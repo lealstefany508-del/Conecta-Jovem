@@ -1,25 +1,3 @@
-```markdown
-<h1 align="center">🎓 Conecta Jovem</h1>
-
-<p align="center">
-  Plataforma web responsiva e instalável (PWA) para conectar estudantes a oportunidades de estágio e jovem aprendiz,<br>
-  com área do estudante, painel do recrutador e administração operacional.
-</p>
-
-<p align="center">
-  <img alt="Node.js" src="[https://img.shields.io/badge/Node.js-24-339933?logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-24-339933?logo=nodedotjs&logoColor=white)">
-  <img alt="React" src="[https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)">
-  <img alt="Express" src="[https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white](https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white)">
-  <img alt="PostgreSQL" src="[https://img.shields.io/badge/PostgreSQL-Neon-4169E1?logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-Neon-4169E1?logo=postgresql&logoColor=white)">
-  <img alt="Vercel" src="[https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)">
-</p>
-
-<p align="center">
-  <sub>Aplicação publicada em: <a href="[https://conecta-jovem-two.vercel.app](https://conecta-jovem-two.vercel.app)">conecta-jovem-two.vercel.app</a></sub>
-</p>
-
----
-
 ## 📌 Sobre o projeto
 
 O **Conecta Jovem** resolve a dificuldade de estudantes em encontrar vagas reais de estágio e jovem aprendiz compatíveis com seu curso, turno e cidade, ao mesmo tempo em que oferece às empresas um fluxo organizado de triagem e publicação.
